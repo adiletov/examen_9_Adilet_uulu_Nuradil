@@ -1,0 +1,8 @@
+.contactAddBlock{
+    width: 500px;
+    display: flex;
+    flex-direction: column;
+}
+.contactAddBlock img{
+    width: 500px;
+}

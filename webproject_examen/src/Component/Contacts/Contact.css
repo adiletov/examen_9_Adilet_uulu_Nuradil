@@ -1,0 +1,25 @@
+.contactBlock{
+    text-align: left;
+    display: flex;
+    border: 1px solid #cccccc;
+    width: 500px;
+    height: 200px;
+    margin-bottom: 20px;
+    border-radius: 15px;
+    overflow: hidden;
+}
+.contactBlock img{
+    width: 250px;
+}
+.contactBlock p{
+    padding: 0px 50px;
+    line-height: 200px;
+    font-size: 33px;
+}
+
+.contacts{
+    padding: 10px 50px;
+}
+.modalInfo{
+    padding: 20px;
+}

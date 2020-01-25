@@ -1,0 +1,10 @@
+.editBlock{
+    width: 500px;
+    display: flex;
+    flex-direction: column;
+    margin-left: 40px;
+    margin-top: 40px;
+}
+.editBlock img{
+    width: 500px;
+}
